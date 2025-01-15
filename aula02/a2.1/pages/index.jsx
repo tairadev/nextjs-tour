@@ -4,8 +4,8 @@ import dados from '../dados.json';
 
 export default function HomeScreen() {
   const infos = {
-    nome: 'Mario Souto',
-    githubUser: 'omariosouto',
+    nome: 'Guilherme Taira',
+    githubUser: 'tairadev',
   };
   const posts = dados.posts;
 
